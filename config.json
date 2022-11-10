@@ -1,0 +1,21 @@
+{
+  "APIs": {
+    "zenz": "https://zenzapis.xyz",
+    "apikey": "akame-chan>_<"
+  },
+  "options": {
+    "autoRead": false,
+    "self": false,
+    "limitCount": 50,
+    "limitGame": 40
+  },
+  "exif": {
+    "packname": "zenzapis",
+    "author": "https://zenzapis.xyz"
+  },
+  "owner": [
+    "62811666884"
+  ],
+  "timezone": "Asia/Jakarta",
+  "footer": "Powered by https://zenzapis.xyz"
+}
